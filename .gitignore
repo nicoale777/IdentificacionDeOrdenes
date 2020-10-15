@@ -1,0 +1,3 @@
+ignore yolo3/yolov3_320.weights
+ignore yolo3/yolov3.weights
+ignore faceRecognition_facenet/facenet_keras.h5
